@@ -1,6 +1,7 @@
 /*!
  * fullPage 3.0.4
  * https://github.com/alvarotrigo/fullPage.js
+
  *
  * @license GPLv3 for open source use only
  * or Fullpage Commercial License for commercial use
@@ -104,10 +105,10 @@ html.fp-enabled,
     -webkit-transform: translate3d(0,0,0);
 }
 #fp-nav.fp-right {
-    right: 17px;
+    right: 20px;
 }
 #fp-nav.fp-left {
-    left: 17px;
+    left: 20px;
 }
 .fp-slidesNav{
     position: absolute;
